@@ -69,6 +69,18 @@ Conference Management Software is an system to facilitate the planning, coordina
 
 **One attendee can have a group of Sessions.**
 
+```diff
+- text in red
+> [NOTE!]
+> the SessionAttendee table is relationship table and used "AttendeeID" ,"SessionID" as foreignKey from Basic tables (Attendee table , Session table).
+
+- text in red
++ text in green
+! text in orange
+# text in gray
+@@ text in purple (and bold)@@
+```
+
 > [NOTE!]
 > the SessionAttendee table is relationship table and used "AttendeeID" ,"SessionID" as foreignKey from Basic tables (Attendee table , Session table).
 
