@@ -4,15 +4,18 @@
 <details>
 <summary>App Statement</summary>
 
+## **App Statement.**
+
 Conference Management Software is an system to facilitate the planning, coordination, and execution of conferences and events. This robust system caters to the core components of conference management by incorporating a suite of functionalities tailored to enhance the collaboration between speakers, organizers, and attendees
 
-
 </details>
+
 
 
 <details>
 <summary>Tables</summary>
 
+## **Tables.**
 
 1-Session Table 
 
@@ -49,7 +52,6 @@ Conference Management Software is an system to facilitate the planning, coordina
 
 
 
-
 </details>
 
 
@@ -57,8 +59,10 @@ Conference Management Software is an system to facilitate the planning, coordina
 
 <details>
 <summary>RelationShip</summary>
+
+## **Relationships.**
   
-Many-To-Many (M:) Relationship.
+### Many-To-Many (M:) Relationship.
 
 
 One session can have a group of Attendees.
@@ -74,6 +78,22 @@ the SessionAttendee table is relationship table and used "AttendeeID" ,"SessionI
 
 <details>
 <summary>Feature List (CRUD)</summary>
+
+## **Feature List (CRUD).**
+
+|                CRUD              |
+|-----------------:|---------------|
+| Create           | Read          |
+|-----------------:|---------------|
+|  New Session     |  All Session  |
+|  New Attendee    |               |
+|-----------------:|---------------|
+| Update           | Delete        |
+|-----------------:|---------------|
+|  Session         |    Session    |
+|  Attendee Status |               |
+
+
 
 Create: New Session. New Attendee.
 
