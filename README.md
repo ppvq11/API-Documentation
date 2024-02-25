@@ -58,9 +58,8 @@ Conference Management Software is an system to facilitate the planning, coordina
 <details>
 <summary>RelationShip</summary>
   
-Many-To-Many (M:) Relationship 
+Many-To-Many (M:) Relationship.
 One session can have a group of Attendees.
-
 One attendee can have a group of Sessions.
 
 
@@ -74,7 +73,6 @@ the SessionAttendee table is relationship table and used "AttendeeID" ,"SessionI
 <summary>Feature List (CRUD)</summary>
 
 Create New Session.
-
 Create New Attendee.
 
 
@@ -82,7 +80,6 @@ Read All SEssion.
 
 
 Update Status of Session.
-
 Update Status of Atendee.
 
 
