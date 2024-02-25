@@ -1,10 +1,18 @@
 # API-Documentation
 
-App Statement : 
+
+<details>
+<summary>App Statement</summary>
+
 Conference Management Software is an system to facilitate the planning, coordination, and execution of conferences and events. This robust system caters to the core components of conference management by incorporating a suite of functionalities tailored to enhance the collaboration between speakers, organizers, and attendees
 
 
-Tables : 
+</details>
+
+
+<details>
+<summary>Tables</summary>
+
 
 1-Session Table 
 
@@ -41,7 +49,17 @@ Tables :
 
 
 
+</details>
 
+
+
+
+<details>
+<summary>RelationShip</summary>
+
+
+
+</details>
 
 
 
