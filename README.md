@@ -69,6 +69,7 @@ Conference Management Software is an system to facilitate the planning, coordina
 
 **One attendee can have a group of Sessions.**
 
+<font color="Red"> > [!NOTE] </font>
 > [!NOTE]
 > Useful information that users should know, even when skimming content.
 
