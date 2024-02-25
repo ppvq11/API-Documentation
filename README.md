@@ -81,27 +81,17 @@ the SessionAttendee table is relationship table and used "AttendeeID" ,"SessionI
 
 ## **Feature List (CRUD).**
 
-|                CRUD              |
-|-----------------:|---------------|
-| Create           | Read          |
-|-----------------:|---------------|
-|  New Session     |  All Session  |
-|  New Attendee    |               |
-|-----------------:|---------------|
-| Update           | Delete        |
-|-----------------:|---------------|
-|  Session         |    Session    |
-|  Attendee Status |               |
-
-
-
-Create: New Session. New Attendee.
+**Create:**
+```
+New Session. 
+New Attendee.
+```
 
 
 Read: All SEssion.
 
 
-Update: Status of Session. Status of Atendee.
+Update: Session. Status of Atendee.
 
 
 Delete: Session.
